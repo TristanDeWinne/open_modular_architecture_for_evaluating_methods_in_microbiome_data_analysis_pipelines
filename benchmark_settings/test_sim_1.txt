@@ -1,0 +1,7 @@
+sim_setting=spsimseq_test	N=1	tot.samples=100	source_data=zhang_sub_phyloseq	min_nonzero_sample=5	n.genes=500	group=MYCN.status	pDE=0.25	lfc.thrld=0.01	genewiseCor=TRUE
+method_setting1=DESeq2_test	design=~Group
+method_setting2=edgeR_test	group=Group	min_count=5
+method_setting3=edgeR_test	group=Group	min_count=100
+
+
+

@@ -1,0 +1,18 @@
+Source data:
+	-phyloseq object
+	-saved as .RDS file
+
+Simulation method:
+	INPUT: 
+		-simulation settings as a list (note source data needs to be a phyloseq object)
+	OUTPUT:
+		-a phyloseq object with an otu table, sample data and taxa table.
+		 The taxa table needs to have a columnn containing the ground truth called "DE.ind"
+
+Analysis method:
+	INPUT:
+		-Phyloseq data object
+		-method settings
+	OUTPUT:
+		-list containing differential expression results such as log FC and pvalues (mandatory) 
+		 and the ground truth 

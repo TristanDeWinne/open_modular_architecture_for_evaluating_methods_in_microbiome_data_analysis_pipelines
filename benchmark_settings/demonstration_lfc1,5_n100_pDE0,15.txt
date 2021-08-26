@@ -1,0 +1,4 @@
+sim_setting=spsimseq_test	N=100	n=100	source_data=zhang_sub_phyloseq	lfc.thrld=1.5	pDE=0.15	min_nonzero_sample=5	group=MYCN.status
+method_setting1=DESeq2_test	design=~Group
+method_setting2=edgeR_test	group=Group
+method_setting3=wilcoxon_rank_sum_test	group=Group

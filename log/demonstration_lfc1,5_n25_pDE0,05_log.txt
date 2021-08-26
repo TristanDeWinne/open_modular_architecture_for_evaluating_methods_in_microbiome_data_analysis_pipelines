@@ -1,0 +1,13 @@
+[2021-08-19 08:00:21]	Start benchmark.
+[2021-08-19 08:00:21]	Read in settings (start).
+[2021-08-19 08:00:21]	Read in settings (end).
+[2021-08-19 08:00:21]	Simulation of data (start).
+[2021-08-19 08:21:28]	Simulation of data (end).
+[2021-08-19 08:21:28]	Save simulated data (start).
+[2021-08-19 08:21:36]	Save simulated data (end).
+[2021-08-19 08:21:37]	Run methods (start).
+[2021-08-19 08:56:03]	Run methods (end).
+[2021-08-19 08:56:03]	Save benchmark results in folder benchmark_results (start).
+[2021-08-19 08:56:05]	Save benchmargjk results in folder benchmark_results (end).
+[2021-08-19 08:56:06]	End benchmark.
+

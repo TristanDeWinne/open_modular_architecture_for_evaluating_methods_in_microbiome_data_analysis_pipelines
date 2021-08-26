@@ -1,0 +1,4 @@
+method_setting3=method3_R_script_name	bool=TRUE	vector_bool=[True, false]	matrix_bool=[[true,FaLse],[false, FALSE]]
+
+
+

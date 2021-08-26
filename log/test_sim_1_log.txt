@@ -1,0 +1,387 @@
+[2021-08-03 12:15:36]	Start benchmark.
+[2021-08-03 12:15:36]	Read in settings (start).
+[2021-08-03 12:39:04]	Start benchmark.
+[2021-08-03 12:39:04]	Read in settings (start).
+[2021-08-03 12:39:04]	Read in settings (end).
+[2021-08-03 12:39:04]	Simulation of data (start).
+[2021-08-03 12:40:32]	Start benchmark.
+[2021-08-03 12:40:32]	Read in settings (start).
+[2021-08-03 12:40:32]	Read in settings (end).
+[2021-08-03 12:40:32]	Simulation of data (start).
+[2021-08-03 12:47:59]	Start benchmark.
+[2021-08-03 12:47:59]	Read in settings (start).
+[2021-08-03 12:47:59]	Read in settings (end).
+[2021-08-03 12:47:59]	Simulation of data (start).
+[2021-08-03 12:48:18]	Start benchmark.
+[2021-08-03 12:48:18]	Read in settings (start).
+[2021-08-03 12:48:18]	Read in settings (end).
+[2021-08-03 12:48:18]	Simulation of data (start).
+[2021-08-03 12:51:21]	Start benchmark.
+[2021-08-03 12:51:21]	Read in settings (start).
+[2021-08-03 12:51:21]	Read in settings (end).
+[2021-08-03 12:51:21]	Simulation of data (start).
+[2021-08-03 12:54:15]	Start benchmark.
+[2021-08-03 12:54:15]	Read in settings (start).
+[2021-08-03 12:54:15]	Read in settings (end).
+[2021-08-03 12:54:15]	Simulation of data (start).
+[2021-08-03 12:54:16]	Simulation of data (end).
+[2021-08-03 12:54:16]	Save simulated data (start).
+[2021-08-03 12:54:16]	Save simulated data (end).
+[2021-08-03 13:44:15]	Start benchmark.
+[2021-08-03 13:44:15]	Read in settings (start).
+[2021-08-03 13:44:15]	Read in settings (end).
+[2021-08-03 13:44:15]	Simulation of data (start).
+[2021-08-03 13:44:16]	Simulation of data (end).
+[2021-08-03 13:44:16]	Save simulated data (start).
+[2021-08-03 13:44:16]	Save simulated data (end).
+[2021-08-03 13:44:32]	Start benchmark.
+[2021-08-03 13:44:32]	Read in settings (start).
+[2021-08-03 13:44:32]	Read in settings (end).
+[2021-08-03 13:44:32]	Simulation of data (start).
+[2021-08-03 13:44:33]	Simulation of data (end).
+[2021-08-03 13:44:33]	Save simulated data (start).
+[2021-08-03 13:44:33]	Save simulated data (end).
+[2021-08-03 13:44:33]	Run methods (start)
+[2021-08-03 13:46:35]	Start benchmark.
+[2021-08-03 13:46:35]	Read in settings (start).
+[2021-08-03 13:46:35]	Read in settings (end).
+[2021-08-03 13:46:35]	Simulation of data (start).
+[2021-08-03 13:45:49]	Start benchmark.
+[2021-08-03 13:46:36]	Simulation of data (end).
+[2021-08-03 13:46:36]	Save simulated data (start).
+[2021-08-03 13:46:36]	Save simulated data (end).
+[2021-08-03 13:46:36]	Run methods (start)
+[2021-08-04 13:34:01]	Start benchmark.
+[2021-08-04 13:34:01]	Read in settings (start).
+[2021-08-04 13:34:01]	Read in settings (end).
+[2021-08-04 13:34:01]	Simulation of data (start).
+[2021-08-04 13:34:02]	Simulation of data (end).
+[2021-08-04 13:34:02]	Save simulated data (start).
+[2021-08-04 13:34:02]	Save simulated data (end).
+[2021-08-04 14:17:01]	Start benchmark.
+[2021-08-04 14:17:01]	Read in settings (start).
+[2021-08-04 14:17:01]	Read in settings (end).
+[2021-08-04 14:17:01]	Simulation of data (start).
+[2021-08-04 14:17:02]	Simulation of data (end).
+[2021-08-04 14:17:02]	Save simulated data (start).
+[2021-08-04 14:17:02]	Save simulated data (end).
+[2021-08-04 14:18:38]	Start benchmark.
+[2021-08-04 14:18:38]	Read in settings (start).
+[2021-08-04 14:18:38]	Read in settings (end).
+[2021-08-04 14:18:38]	Simulation of data (start).
+[2021-08-04 14:18:39]	Simulation of data (end).
+[2021-08-04 14:18:39]	Save simulated data (start).
+[2021-08-04 14:18:39]	Save simulated data (end).
+[2021-08-05 12:32:36]	Start benchmark.
+[2021-08-05 12:32:36]	Read in settings (start).
+[2021-08-05 12:32:36]	Read in settings (end).
+[2021-08-05 12:32:36]	Simulation of data (start).
+[2021-08-05 12:32:37]	Simulation of data (end).
+[2021-08-05 12:32:37]	Save simulated data (start).
+[2021-08-05 12:32:37]	Save simulated data (end).
+[2021-08-05 12:33:08]	Start benchmark.
+[2021-08-05 12:33:08]	Read in settings (start).
+[2021-08-05 12:33:08]	Read in settings (end).
+[2021-08-05 12:33:08]	Simulation of data (start).
+[2021-08-05 12:33:09]	Simulation of data (end).
+[2021-08-05 12:33:09]	Save simulated data (start).
+[2021-08-05 12:33:09]	Save simulated data (end).
+[2021-08-05 12:56:27]	Start benchmark.
+[2021-08-05 12:56:27]	Read in settings (start).
+[2021-08-05 12:56:27]	Read in settings (end).
+[2021-08-05 12:56:27]	Simulation of data (start).
+[2021-08-05 12:56:27]	Simulation of data (end).
+[2021-08-05 12:56:27]	Save simulated data (start).
+[2021-08-05 12:56:27]	Save simulated data (end).
+[2021-08-05 12:57:58]	Start benchmark.
+[2021-08-05 12:57:58]	Read in settings (start).
+[2021-08-05 12:57:58]	Read in settings (end).
+[2021-08-05 12:57:58]	Simulation of data (start).
+[2021-08-05 12:57:58]	Simulation of data (end).
+[2021-08-05 12:57:58]	Save simulated data (start).
+[2021-08-05 12:57:58]	Save simulated data (end).
+[2021-08-05 16:03:38]	Start benchmark.
+[2021-08-05 16:03:38]	Read in settings (start).
+[2021-08-05 16:05:17]	Start benchmark.
+[2021-08-05 16:05:20]	Read in settings (start).
+[2021-08-05 16:08:29]	Start benchmark.
+[2021-08-05 16:08:30]	Read in settings (start).
+[2021-08-05 16:08:51]	Start benchmark.
+[2021-08-05 16:08:51]	Read in settings (start).
+[2021-08-05 16:28:56]	Start benchmark.
+[2021-08-05 16:28:56]	Read in settings (start).
+[2021-08-05 16:35:35]	Start benchmark.
+[2021-08-05 16:35:36]	Read in settings (start).
+[2021-08-05 16:35:54]	Start benchmark.
+[2021-08-05 16:35:54]	Read in settings (start).
+[2021-08-05 16:35:54]	Read in settings (end).
+[2021-08-05 16:35:54]	Simulation of data (start).
+[2021-08-05 16:35:55]	Simulation of data (end).
+[2021-08-05 16:35:55]	Save simulated data (start).
+[2021-08-05 16:35:55]	Save simulated data (end).
+[2021-08-05 16:36:08]	Run methods (start).
+[2021-08-05 16:37:09]	Start benchmark.
+[2021-08-05 16:37:09]	Read in settings (start).
+[2021-08-05 16:37:09]	Read in settings (end).
+[2021-08-05 16:37:09]	Simulation of data (start).
+[2021-08-05 16:37:10]	Simulation of data (end).
+[2021-08-05 16:37:10]	Save simulated data (start).
+[2021-08-05 16:37:10]	Save simulated data (end).
+[2021-08-05 16:45:58]	Run methods (start).
+[2021-08-06 10:57:50]	Start benchmark.
+[2021-08-06 10:57:50]	Read in settings (start).
+[2021-08-06 10:57:51]	Read in settings (end).
+[2021-08-06 10:57:51]	Simulation of data (start).
+[2021-08-06 10:57:52]	Simulation of data (end).
+[2021-08-06 10:57:52]	Save simulated data (start).
+[2021-08-06 10:57:52]	Save simulated data (end).
+[2021-08-06 10:57:55]	Run methods (start).
+[2021-08-06 10:58:41]	Start benchmark.
+[2021-08-06 10:58:41]	Read in settings (start).
+[2021-08-06 10:58:41]	Read in settings (end).
+[2021-08-06 10:58:41]	Simulation of data (start).
+[2021-08-06 10:58:42]	Simulation of data (end).
+[2021-08-06 10:58:42]	Save simulated data (start).
+[2021-08-06 10:58:42]	Save simulated data (end).
+[2021-08-06 10:58:42]	Run methods (start).
+[2021-08-06 11:05:14]	Start benchmark.
+[2021-08-06 11:05:14]	Read in settings (start).
+[2021-08-06 11:05:35]	Start benchmark.
+[2021-08-06 11:05:35]	Read in settings (start).
+[2021-08-06 11:09:45]	Start benchmark.
+[2021-08-06 11:09:45]	Read in settings (start).
+[2021-08-06 11:33:20]	Start benchmark.
+[2021-08-06 11:33:20]	Read in settings (start).
+[2021-08-06 11:33:46]	Read in settings (end).
+[2021-08-06 11:33:47]	Simulation of data (start).
+[2021-08-06 11:33:49]	Simulation of data (end).
+[2021-08-06 11:33:51]	Save simulated data (start).
+[2021-08-06 11:33:52]	Save simulated data (end).
+[2021-08-06 11:35:20]	Run methods (start).
+[2021-08-06 11:35:36]	Start benchmark.
+[2021-08-06 11:35:36]	Read in settings (start).
+[2021-08-06 11:35:36]	Read in settings (end).
+[2021-08-06 11:35:36]	Simulation of data (start).
+[2021-08-06 11:35:37]	Simulation of data (end).
+[2021-08-06 11:35:37]	Save simulated data (start).
+[2021-08-06 11:35:37]	Save simulated data (end).
+[2021-08-06 11:35:37]	Run methods (start).
+[2021-08-06 11:41:17]	Start benchmark.
+[2021-08-06 11:41:17]	Read in settings (start).
+[2021-08-06 11:41:17]	Read in settings (end).
+[2021-08-06 11:41:17]	Simulation of data (start).
+[2021-08-06 11:41:19]	Simulation of data (end).
+[2021-08-06 11:41:19]	Save simulated data (start).
+[2021-08-06 11:41:19]	Save simulated data (end).
+[2021-08-06 11:41:19]	Run methods (start).
+[2021-08-06 11:43:35]	Start benchmark.
+[2021-08-06 11:43:35]	Read in settings (start).
+[2021-08-06 11:43:35]	Read in settings (end).
+[2021-08-06 11:43:35]	Simulation of data (start).
+[2021-08-06 11:43:35]	Simulation of data (end).
+[2021-08-06 11:43:35]	Save simulated data (start).
+[2021-08-06 11:43:35]	Save simulated data (end).
+[2021-08-06 11:43:35]	Run methods (start).
+[2021-08-06 11:45:08]	Start benchmark.
+[2021-08-06 11:45:08]	Read in settings (start).
+[2021-08-06 11:45:08]	Read in settings (end).
+[2021-08-06 11:45:08]	Simulation of data (start).
+[2021-08-06 11:45:08]	Simulation of data (end).
+[2021-08-06 11:45:08]	Save simulated data (start).
+[2021-08-06 11:45:08]	Save simulated data (end).
+[2021-08-06 11:45:08]	Run methods (start).
+[2021-08-06 11:45:40]	Start benchmark.
+[2021-08-06 11:45:40]	Read in settings (start).
+[2021-08-06 11:45:40]	Read in settings (end).
+[2021-08-06 11:45:40]	Simulation of data (start).
+[2021-08-06 11:45:41]	Simulation of data (end).
+[2021-08-06 11:45:41]	Save simulated data (start).
+[2021-08-06 11:45:41]	Save simulated data (end).
+[2021-08-06 11:45:41]	Run methods (start).
+[2021-08-06 12:25:09]	Start benchmark.
+[2021-08-06 12:25:09]	Read in settings (start).
+[2021-08-06 12:25:09]	Read in settings (end).
+[2021-08-06 12:25:09]	Simulation of data (start).
+[2021-08-06 12:25:10]	Simulation of data (end).
+[2021-08-06 12:25:10]	Save simulated data (start).
+[2021-08-06 12:25:10]	Save simulated data (end).
+[2021-08-06 12:25:10]	Run methods (start).
+[2021-08-06 12:25:17]	Run methods (end).
+[2021-08-06 12:25:20]	Save benchmark results in folder benchmark_results (start).
+[2021-08-06 12:25:22]	Save benchmark results in folder benchmark_results (end).
+[2021-08-06 12:26:17]	Start benchmark.
+[2021-08-06 12:26:17]	Read in settings (start).
+[2021-08-06 12:26:17]	Read in settings (end).
+[2021-08-06 12:26:17]	Simulation of data (start).
+[2021-08-06 12:26:17]	Simulation of data (end).
+[2021-08-06 12:26:17]	Save simulated data (start).
+[2021-08-06 12:26:17]	Save simulated data (end).
+[2021-08-06 12:26:17]	Run methods (start).
+[2021-08-06 12:53:41]	Start benchmark.
+[2021-08-06 12:53:41]	Read in settings (start).
+[2021-08-06 12:53:41]	Read in settings (end).
+[2021-08-06 12:53:41]	Simulation of data (start).
+[2021-08-06 12:53:41]	Simulation of data (end).
+[2021-08-06 12:53:41]	Save simulated data (start).
+[2021-08-06 12:53:41]	Save simulated data (end).
+[2021-08-06 12:53:41]	Run methods (start).
+[2021-08-06 13:06:51]	Start benchmark.
+[2021-08-06 13:06:51]	Read in settings (start).
+[2021-08-06 13:06:51]	Read in settings (end).
+[2021-08-06 13:06:51]	Simulation of data (start).
+[2021-08-06 13:06:51]	Simulation of data (end).
+[2021-08-06 13:06:51]	Save simulated data (start).
+[2021-08-06 13:06:51]	Save simulated data (end).
+[2021-08-06 13:06:51]	Run methods (start).
+[2021-08-07 18:44:15]	Start benchmark.
+[2021-08-07 18:44:15]	Read in settings (start).
+[2021-08-07 19:27:17]	Start benchmark.
+[2021-08-07 19:27:17]	Read in settings (start).
+[2021-08-07 19:44:10]	Start benchmark.
+[2021-08-07 19:44:10]	Read in settings (start).
+[2021-08-07 19:44:10]	Read in settings (end).
+[2021-08-07 19:44:10]	Simulation of data (start).
+[2021-08-07 19:44:10]	Simulation of data (end).
+[2021-08-07 19:44:10]	Save simulated data (start).
+[2021-08-07 19:44:10]	Save simulated data (end).
+[2021-08-07 19:44:10]	Run methods (start).
+[2021-08-07 19:48:50]	Start benchmark.
+[2021-08-07 19:48:50]	Read in settings (start).
+[2021-08-07 19:48:50]	Read in settings (end).
+[2021-08-07 19:48:50]	Simulation of data (start).
+[2021-08-07 19:48:50]	Simulation of data (end).
+[2021-08-07 19:48:50]	Save simulated data (start).
+[2021-08-07 19:48:50]	Save simulated data (end).
+[2021-08-07 19:48:50]	Run methods (start).
+[2021-08-07 21:32:42]	Start benchmark.
+[2021-08-07 21:32:42]	Read in settings (start).
+[2021-08-07 21:32:43]	Read in settings (end).
+[2021-08-07 21:32:43]	Simulation of data (start).
+[2021-08-07 21:32:43]	Simulation of data (end).
+[2021-08-07 21:32:43]	Save simulated data (start).
+[2021-08-07 21:32:43]	Save simulated data (end).
+[2021-08-07 21:32:43]	Run methods (start).
+[2021-08-07 21:33:44]	Start benchmark.
+[2021-08-07 21:33:44]	Read in settings (start).
+[2021-08-07 21:33:44]	Read in settings (end).
+[2021-08-07 21:33:44]	Simulation of data (start).
+[2021-08-07 21:33:45]	Simulation of data (end).
+[2021-08-07 21:33:45]	Save simulated data (start).
+[2021-08-07 21:33:45]	Save simulated data (end).
+[2021-08-07 21:33:45]	Run methods (start).
+[2021-08-08 14:55:38]	Start benchmark.
+[2021-08-08 14:55:38]	Read in settings (start).
+[2021-08-08 14:55:39]	Read in settings (end).
+[2021-08-08 14:55:39]	Simulation of data (start).
+[2021-08-08 14:55:40]	Simulation of data (end).
+[2021-08-08 14:55:40]	Save simulated data (start).
+[2021-08-08 14:55:40]	Save simulated data (end).
+[2021-08-08 14:55:40]	Run methods (start).
+[2021-08-08 15:03:00]	Start benchmark.
+[2021-08-08 15:03:00]	Read in settings (start).
+[2021-08-08 15:03:01]	Read in settings (end).
+[2021-08-08 15:03:01]	Simulation of data (start).
+[2021-08-08 15:03:01]	Simulation of data (end).
+[2021-08-08 15:03:01]	Save simulated data (start).
+[2021-08-08 15:03:01]	Save simulated data (end).
+[2021-08-08 15:03:01]	Run methods (start).
+[2021-08-08 15:03:14]	Run methods (end).
+[2021-08-11 13:45:10]	Start benchmark.
+[2021-08-11 13:45:10]	Read in settings (start).
+[2021-08-11 13:45:54]	Start benchmark.
+[2021-08-11 13:45:54]	Read in settings (start).
+[2021-08-11 13:45:55]	Read in settings (end).
+[2021-08-11 13:45:56]	Simulation of data (start).
+[2021-08-11 16:16:03]	Start benchmark.
+[2021-08-11 16:16:03]	Read in settings (start).
+[2021-08-11 16:28:10]	Start benchmark.
+[2021-08-11 16:28:10]	Read in settings (start).
+[2021-08-11 16:29:25]	Start benchmark.
+[2021-08-11 16:29:25]	Read in settings (start).
+[2021-08-11 16:49:46]	Start benchmark.
+[2021-08-11 16:49:46]	Read in settings (start).
+[2021-08-11 16:56:00]	Start benchmark.
+[2021-08-11 16:56:00]	Read in settings (start).
+[2021-08-11 17:39:57]	Start benchmark.
+[2021-08-11 17:39:57]	Read in settings (start).
+[2021-08-12 15:23:50]	Start benchmark.
+[2021-08-12 15:23:50]	Read in settings (start).
+[2021-08-12 15:24:11]	Read in settings (end).
+[2021-08-12 15:24:13]	Simulation of data (start).
+[2021-08-12 15:26:19]	Start benchmark.
+[2021-08-12 15:26:19]	Read in settings (start).
+[2021-08-12 15:37:00]	Read in settings (end).
+[2021-08-12 15:37:01]	Simulation of data (start).
+[2021-08-12 15:37:51]	Simulation of data (end).
+[2021-08-12 15:37:55]	Save simulated data (start).
+[2021-08-12 15:37:58]	Save simulated data (end).
+[2021-08-12 15:50:14]	Run methods (start).
+[2021-08-12 15:50:53]	Start benchmark.
+[2021-08-12 15:50:53]	Read in settings (start).
+[2021-08-12 15:50:54]	Read in settings (end).
+[2021-08-12 15:50:54]	Simulation of data (start).
+[2021-08-12 15:51:36]	Simulation of data (end).
+[2021-08-12 15:51:36]	Save simulated data (start).
+[2021-08-12 15:51:36]	Save simulated data (end).
+[2021-08-12 15:51:36]	Run methods (start).
+[2021-08-12 16:47:16]	Start benchmark.
+[2021-08-12 16:47:17]	Read in settings (start).
+[2021-08-12 16:47:17]	Read in settings (end).
+[2021-08-12 16:47:17]	Simulation of data (start).
+[2021-08-12 17:01:00]	Start benchmark.
+[2021-08-12 17:01:00]	Read in settings (start).
+[2021-08-12 17:01:01]	Read in settings (end).
+[2021-08-12 17:01:01]	Simulation of data (start).
+[2021-08-12 17:01:37]	Simulation of data (end).
+[2021-08-12 17:01:37]	Save simulated data (start).
+[2021-08-12 17:01:38]	Save simulated data (end).
+[2021-08-12 17:01:39]	Run methods (start).
+[2021-08-15 15:28:16]	Start benchmark.
+[2021-08-15 15:28:16]	Read in settings (start).
+[2021-08-17 14:08:00]	Start benchmark.
+[2021-08-17 14:08:00]	Read in settings (start).
+[2021-08-17 14:08:04]	Read in settings (end).
+[2021-08-17 14:08:24]	Start benchmark.
+[2021-08-17 14:08:24]	Read in settings (start).
+[2021-08-17 14:11:17]	Read in settings (end).
+[2021-08-17 14:11:20]	Simulation of data (start).
+[2021-08-17 14:12:58]	Simulation of data (end).
+[2021-08-17 14:13:00]	Save simulated data (start).
+[2021-08-17 14:13:01]	Save simulated data (end).
+[2021-08-17 14:13:05]	Run methods (start).
+[2021-08-17 14:13:32]	Start benchmark.
+[2021-08-17 14:13:32]	Read in settings (start).
+[2021-08-17 14:13:32]	Read in settings (end).
+[2021-08-17 14:13:32]	Simulation of data (start).
+[2021-08-17 14:13:49]	Simulation of data (end).
+[2021-08-17 14:13:49]	Save simulated data (start).
+[2021-08-17 14:13:49]	Save simulated data (end).
+[2021-08-17 14:13:49]	Run methods (start).
+[2021-08-17 14:29:39]	Start benchmark.
+[2021-08-17 14:29:39]	Read in settings (start).
+[2021-08-17 14:29:39]	Read in settings (end).
+[2021-08-17 14:29:39]	Simulation of data (start).
+[2021-08-17 14:29:53]	Simulation of data (end).
+[2021-08-17 14:29:53]	Save simulated data (start).
+[2021-08-17 14:29:53]	Save simulated data (end).
+[2021-08-17 14:29:53]	Run methods (start).
+[2021-08-17 14:30:23]	Start benchmark.
+[2021-08-17 14:30:23]	Read in settings (start).
+[2021-08-17 14:30:23]	Read in settings (end).
+[2021-08-17 14:30:23]	Simulation of data (start).
+[2021-08-17 14:30:40]	Simulation of data (end).
+[2021-08-17 14:30:40]	Save simulated data (start).
+[2021-08-17 14:30:40]	Save simulated data (end).
+[2021-08-17 14:30:40]	Run methods (start).
+[2021-08-18 14:23:50]	Start benchmark.
+[2021-08-18 14:23:50]	Read in settings (start).
+[2021-08-18 16:54:32]	Start benchmark.
+[2021-08-18 16:54:32]	Read in settings (start).
+[2021-08-18 16:55:43]	Start benchmark.
+[2021-08-18 16:55:43]	Read in settings (start).
+[2021-08-18 16:56:09]	Start benchmark.
+[2021-08-18 16:56:09]	Read in settings (start).
+[2021-08-19 13:46:17]	Start benchmark.
+[2021-08-19 13:46:17]	Read in settings (start).
+[2021-08-19 13:46:17]	Read in settings (end).
+[2021-08-19 13:46:17]	Simulation of data (start).
